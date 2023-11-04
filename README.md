@@ -1,3 +1,4 @@
+[![An image of @edwinmolina's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/edwinmolina)](https://holopin.io/@edwinmolina)
 # 💫 About Me:
 🎓I am currently studying engineering in information systems.<br><br>🤓I am a self-taught and curious person, always looking to learn new technologies and apply them in my projects.<br><br>💻I am passionate about front-end web development with a strong background in current technologies and tools.<br><br>🌐I like the theme of web optimization and CEO positioning.<br><br>👨🏻‍💻Always looking to collaborate as a team with other developers.
 
